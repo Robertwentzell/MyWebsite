@@ -1,0 +1,47 @@
+.navbar {
+		margin-bottom: 0;
+		border-radius: 0;
+	}
+footer{
+	background-color: #f2f2f2;
+  padding: 25px;
+}
+a:link {
+  color: white;
+}
+.s1 {
+	background-color: #ff44ff;
+	color: #ffffff;
+}
+.s2 {
+	background-color: #474e5d;
+	color: #ffffff;
+}
+.s3 {
+	background-color: #123456;
+	color: #ffffff;
+}
+.container-fluid {
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+.projectHeader {
+	font-size: 35px;
+	font-weight: bold;
+	padding-top: 0px;
+}
+.projectHeader2 {
+	font-size: 35px;
+	font-weight: bold;
+	padding-top: 500px;
+
+}
+.size24font {
+	font-size: 24px;
+}
+.size20font {
+	font-size: 20px;
+}
+.whiteBackground {
+	background-color: #ffffff;
+}
